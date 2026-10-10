@@ -4,7 +4,7 @@
 
 **Mapping food and activity deserts in rural Europe — so communities and institutions can see the gaps, and act on them.**
 
-<sub>The team behind <b>Nodo Rural</b>, a geospatial observatory developed within the <b>UNITA – Universitas Montium</b> alliance.</sub>
+<sub>A geospatial observatory developed within the <b>UNITA – Universitas Montium</b> alliance.</sub>
 
 <br/>
 
@@ -29,9 +29,9 @@ In many rural and mountain regions, essential services — grocery stores, pharm
 This project was developed as the final-year project of the Bachelor's in <course> at <university>, supervised by <name>.
 -->
 
-## 🧭 Nodo Rural
+## 🧭 What we build
 
-**Nodo Rural** is the observatory platform, available on **web** and **mobile**.
+The **Desert ATLAS** observatory is available on **web** and **mobile**.
 
 | | Feature | What it does |
 |---|---|---|
