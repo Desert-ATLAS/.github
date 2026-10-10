@@ -5,7 +5,7 @@
   <img src="./assets/desert-atlas-logo-light.png" alt="Desert-ATLAS" width="640">
 </picture>
 
-**Mapping food and activity deserts in rural Europe — so communities and institutions can see the gaps, and act on them.**
+**Mapping food and exercise deserts in rural Europe — so communities and institutions can see the gaps, and act on them.**
 
 <sub>A geospatial observatory developed within the <b>UNITA – Universitas Montium</b> alliance.</sub>
 
@@ -26,7 +26,7 @@ In many rural and mountain regions, essential services — grocery stores, pharm
 **Desert ATLAS** builds the tools to make those deserts visible. We combine open geospatial data with a machine-learning pipeline to classify every area of a region, and we put the results in the hands of the people who live there and the institutions that serve them.
 
 - 🥖 **Food deserts** — limited access to fresh, affordable food.
-- 🏃 **Activity deserts** — limited access to sport, leisure and social activity.
+- 🏃 **Exercise deserts** — limited access to sport and physical activity facilities.
 
 <!-- TODO: add university, course and supervisor, e.g.
 This project was developed as the final-year project of the Bachelor's in <course> at <university>, supervised by <name>.
