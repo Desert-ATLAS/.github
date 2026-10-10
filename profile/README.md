@@ -1,6 +1,9 @@
 <div align="center">
 
-# 🏜️ Desert ATLAS
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/desert-atlas-logo-dark.png">
+  <img src="./assets/desert-atlas-logo-light.png" alt="Desert-ATLAS" width="640">
+</picture>
 
 **Mapping food and activity deserts in rural Europe — so communities and institutions can see the gaps, and act on them.**
 
