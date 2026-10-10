@@ -32,22 +32,6 @@ In many rural and mountain regions, essential services — grocery stores, pharm
 This project was developed as the final-year project of the Bachelor's in <course> at <university>, supervised by <name>.
 -->
 
-## 🧭 What we build
-
-The **Desert ATLAS** observatory is available on **web** and **mobile**.
-
-| | Feature | What it does |
-|---|---|---|
-| 🗺️ | **Explore** | Interactive map of cells and areas, with layers for desert classification and indicators |
-| 📊 | **Analyze** | Customisable analytics dashboard with insight stories and PDF reports |
-| 💬 | **Community** | Citizens report missing services and local problems, and discuss them with others |
-| 🏛️ | **Operations** | Workbench for institutions to review, triage and hand off community reports |
-| 🔔 | **Messages & notifications** | Realtime messaging and an inbox that keeps everyone in the loop |
-
-<!-- TODO: add a screenshot or GIF here — it is the single most effective thing on this page.
-<p align="center"><img src="https://raw.githubusercontent.com/Desert-ATLAS/.github/main/profile/assets/explore.png" width="85%"/></p>
--->
-
 ## 👥 Team
 
 <div align="center">
