@@ -7,8 +7,6 @@
 
 **Mapping food and exercise deserts in rural Europe — so communities and institutions can see the gaps, and act on them.**
 
-<sub>A geospatial observatory developed within the <b>UNITA – Universitas Montium</b> alliance.</sub>
-
 <br/>
 
 ![Status](https://img.shields.io/badge/status-active%20development-2ea44f?style=flat-square)
