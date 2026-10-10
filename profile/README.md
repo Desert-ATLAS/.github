@@ -21,7 +21,7 @@
 
 In many rural and mountain regions, essential services — grocery stores, pharmacies, sports facilities, cultural spaces — are disappearing. The places left behind become **deserts**: areas where people must travel unreasonable distances for everyday needs.
 
-**Desert ATLAS** builds the tools to make those deserts visible. We combine open geospatial data with a machine-learning pipeline to classify every area of a region, and we put the results in the hands of the people who live there and the institutions that serve them.
+**Desert ATLAS** builds the tools to make those deserts visible. We combine open geospatial data with a data pipeline to classify every area of a region, and we put the results in the hands of the people who live there and the institutions that serve them.
 
 - 🥖 **Food deserts** — limited access to fresh, affordable food.
 - 🏃 **Exercise deserts** — limited access to sport and physical activity facilities.
@@ -40,7 +40,7 @@ This project was developed as the final-year project of the Bachelor's in <cours
         <img src="https://github.com/Fegue3.png" width="100" style="border-radius:50%" alt="Francisco"/><br/>
         <b>Francisco</b>
       </a><br/>
-      <sub>Backend · Web · ML pipeline · Infra</sub><br/><br/>
+      <sub>Backend · Web · Data pipeline · Infra</sub><br/><br/>
       <a href="https://github.com/Fegue3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
       <!-- TODO: <a href="https://www.linkedin.com/in/<handle>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
     </td>
@@ -49,7 +49,7 @@ This project was developed as the final-year project of the Bachelor's in <cours
         <img src="https://github.com/JaamesTheFirst.png" width="100" style="border-radius:50%" alt="Tiago Marques"/><br/>
         <b>Tiago Marques</b>
       </a><br/>
-      <sub>Backend · Mobile · ML pipeline · Infra</sub><br/><br/>
+      <sub>Backend · Mobile · Data pipeline · Infra</sub><br/><br/>
       <a href="https://github.com/JaamesTheFirst"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
       <!-- TODO: <a href="https://www.linkedin.com/in/<handle>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
     </td>
