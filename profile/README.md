@@ -50,9 +50,10 @@ The **Desert ATLAS** observatory is available on **web** and **mobile**.
 
 ## 👥 Team
 
+<div align="center">
 <table>
   <tr>
-    <td align="center" width="200">
+    <td align="center" valign="top" width="200">
       <a href="https://github.com/Fegue3">
         <img src="https://github.com/Fegue3.png" width="100" style="border-radius:50%" alt="Francisco"/><br/>
         <b>Francisco</b>
@@ -61,17 +62,18 @@ The **Desert ATLAS** observatory is available on **web** and **mobile**.
       <a href="https://github.com/Fegue3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
       <!-- TODO: <a href="https://www.linkedin.com/in/<handle>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
     </td>
-    <td align="center" width="200">
+    <td align="center" valign="top" width="200">
       <a href="https://github.com/JaamesTheFirst">
         <img src="https://github.com/JaamesTheFirst.png" width="100" style="border-radius:50%" alt="Tiago Marques"/><br/>
         <b>Tiago Marques</b>
       </a><br/>
-      <sub>Mobile · Backend</sub><br/><br/>
+      <sub>Backend · Mobile · ML pipeline · Infra</sub><br/><br/>
       <a href="https://github.com/JaamesTheFirst"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
       <!-- TODO: <a href="https://www.linkedin.com/in/<handle>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> -->
     </td>
   </tr>
 </table>
+</div>
 
 ## 📬 Contact
 
